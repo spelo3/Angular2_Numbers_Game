@@ -22,6 +22,7 @@
   },
   "files": [
     "./dev/app.component.ts",
-    "./dev/boot.ts"
+    "./dev/boot.ts",
+    "./dev/puzzle/puzzle.component.ts"
   ]
 }
